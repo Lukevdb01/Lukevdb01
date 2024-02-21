@@ -7,7 +7,7 @@ https://www.lukevdbroek.nl/
 ## Skills & Experiences
 * ⚛️ React
 * 👨‍💻 HTML, CSS & JS
-* <img src="https://github.com/lukevdbroeknl/.github/assets/112984914/179fee4f-73c9-4330-8a9a-bb09a8e33949" width="20">&ensp;<span>vuejs</span>
+* <img src="https://vueschool.io/img/logos/vue_logo.png" width="20">&ensp;<span>vuejs</span>
 
 ## What am i doing now?
 
