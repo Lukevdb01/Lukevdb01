@@ -11,7 +11,7 @@ https://www.lukevdbroek.nl/
 
 ## What am i doing now?
 
-- 🔭 I’m currently working on my own company 
+- 🔭 I’m currently working on my own company [LNME Media & Design](https://lukevdbroek.nl)
 - 📫 How to reach me: you can email: contact@lukevdbroek.nl 
 
 [![Luke's Github stats](https://github-readme-stats.vercel.app/api?username=Lukevdb01)](https://github.com/lukevdboeknl/github/readme-stats)
