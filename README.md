@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own company](https://lukevdbroek.nl/)
 
-- 🌱 I’m currently learning **Wordpress Framework**
+- 🌱 I’m currently learning the **Wordpress Framework**
 
 - 👨‍💻 All of my projects are available at [https://lukevdbroek.nl/projects/](https://lukevdbroek.nl/projects/)
 
